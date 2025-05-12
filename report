@@ -1,1 +1,4 @@
 https://1drv.ms/v/c/110e6848f762d6b9/EYIkXfSvY8tFjPSq4PBuA20BoowTftwycXEtLPq2LstayQ?e=qBMQOa
+generate a report for my final year major project, coding capsule , which is basically a collaborative coding platform build using, react + vite with chakra ui ,node js + express js , web sockets - socket.io, code mirror for editor, judge rapid api for code execution, uuid for generating unique room id's, axios.
+the frontend is deployed on netlify and the backend is on render.
+in this platform , multiple users can code togather in real time and can change the languages also , according to the language the default code snippets are also generated , there is no need of any user authentication, this is completely free to use and easily accessible, also simple and  lightweight. no databases are also used, the user can download the code file in their local memory by typing th name , and this system automatically fetches the extension of the file. and it's also an pwa.
